@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// ============= HUMAN NOTES FOR IF-ELSE IN C =============
+// ============= HUMAN NOTES FOR IF-ELSE IN C
 // 1. if() - Single condition check
 // 2. if-else - Two options (true/false)
 // 3. if-else if-else - Multiple conditions (like menu options)
